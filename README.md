@@ -1,4 +1,5 @@
 Projeto desenvolvido para a disciplina Banco de Dados Avançados.
+
 Tecnologias Usadas:
 - Python
 - MongoDB Atlas
