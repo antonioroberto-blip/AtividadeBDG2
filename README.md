@@ -37,6 +37,7 @@ A coleção cursos possui validação para:
 Um curso com preço negativo é rejeitado.
 
 Como executar:
+
 Instale as dependências:
 pip install -r requirements.txt
 
